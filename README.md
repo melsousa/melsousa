@@ -1,8 +1,8 @@
 ### Oi, Me chamo Melissa de Sousa
 
 
-- 🔭 Hoje trabalho com Power Bi, desenvolvendo painéis Inteligentes
-- 🌱 Estudando React
+<!-- - 🔭 Hoje trabalho com Power Bi, desenvolvendo painéis Inteligentes -->
+- 🌱 Estudando React e Redux
 
 <div align="center">
   <a href="https://github.com/melsousa">
