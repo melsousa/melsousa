@@ -1,7 +1,7 @@
 ### Oi, Me chamo Melissa de Sousa
 
 
-<!-- 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE -->
+- 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE 
 - 🌱 Estudando React e Redux
 
 <div align="center">
