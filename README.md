@@ -1,7 +1,7 @@
 ### Oi, Me chamo Melissa de Sousa
 
 
-<!-- - 🔭 Hoje trabalho com Power Bi, desenvolvendo painéis Inteligentes -->
+<!-- - 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE -->
 - 🌱 Estudando React e Redux
 
 <div align="center">
