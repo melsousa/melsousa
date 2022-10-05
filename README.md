@@ -2,7 +2,7 @@
 
 
 - 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE 
-- 🌱 Estudando React e Redux
+- 🌱 Estudando Python para análise de dados, Power BI, Tableau
 
 <div align="center">
   <a href="https://github.com/melsousa">
