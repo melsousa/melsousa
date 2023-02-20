@@ -1,4 +1,4 @@
-### Oi, Me chamo Melissa de Sousa
+### Oi, Me chamo Melissa 
 
 
 - 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE 
