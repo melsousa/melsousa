@@ -1,8 +1,8 @@
 ### Oi, Me chamo Melissa 
 
 
-- 🔭 Técnica em Informática, Graduanda em Ciência da Computação - IFCE 
-- 🌱 Estudando Python, R, Machine Learning, Deep Learning para ciência de dados.
+- 🔭 Mestranda em Ciência da Computação, graduada em Ciência da Computação e técnica em Informática
+- 🌱 Estudando Machine Learning, Deep Learning para ciência de dados.
 
 <div align="center">
   <a href="https://github.com/melsousa">
